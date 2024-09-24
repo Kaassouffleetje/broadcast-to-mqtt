@@ -1,3 +1,7 @@
+# Forked from pixento/broadcast-to-mqtt
+The original project did not have an apk published and the Google Play link is dead. It is such a handy little app, so I compiled it myself and published it on this Github repo
+
+# Original readme:
 # broadcast-to-mqtt
 Android app which sends broadcast intents to a MQTT broker.
 
