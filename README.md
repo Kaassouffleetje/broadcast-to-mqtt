@@ -1,5 +1,9 @@
 # Forked from pixento/broadcast-to-mqtt
-The original project did not have an apk published and the Google Play link is dead. It is such a handy little app, so I compiled it myself and published it on this Github repo
+The original project did not have an apk published and the Google Play link is dead. It is such a handy little app, so I compiled it myself and published it on this Github repo.
+
+I do not intent to update or maintain this app. This repo is only so I can share the apk with the world.
+
+Download the apk: https://github.com/Kaassouffleetje/broadcast-to-mqtt/releases/download/v1/broadcast-to-mqtt.debug.apk
 
 # Original readme:
 # broadcast-to-mqtt
