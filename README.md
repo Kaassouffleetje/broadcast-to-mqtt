@@ -3,7 +3,7 @@ The original project did not have an apk published and the Google Play link is d
 
 I do not intent to update or maintain this app. This repo is only so I can share the apk with the world.
 
-Download the apk: https://github.com/Kaassouffleetje/broadcast-to-mqtt/releases/download/v1/broadcast-to-mqtt.debug.apk
+Download the apk from the Releases page: https://github.com/Kaassouffleetje/broadcast-to-mqtt/releases
 
 # Original readme:
 # broadcast-to-mqtt
